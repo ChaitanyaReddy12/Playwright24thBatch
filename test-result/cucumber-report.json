@@ -1,0 +1,42 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "waits-and-windowshandling;verify-playwright-windows-handling",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "verify playwright windows handling",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 11,
+            "name": "verify playwright windows handling",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\Steps.ts:1748"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@method",
+            "line": 9
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "waits-and-windowshandling",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Waits And WindowsHandling",
+    "tags": [],
+    "uri": "PlaywrightAutomationCode\\FeatureFiles\\WaitsAndWindowsHandling.feature"
+  }
+]
